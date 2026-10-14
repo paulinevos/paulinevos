@@ -21,7 +21,7 @@ I've also made contributions to other cool projects like SymfonyAI, LLPhant, ima
 
 #### 🔗 Links
 - 💻 [pauline-vos.nl](http://pauline-vos.nl)
-- 🚌 [Git Legit](http://gitlegit.dev/) <sub>my Git course (yes, yes... _still_ in the works!)</sub>
+- 🧠 [Building Remember This](http://remember-this.io/) <sub>The personal knowledge base for your life</sub>
 - 🐦 [@vanamerongen](http://twitter.com/vanamerongen) <sub>on Twitter</sub>
 - ✍️ [Dev.to](http://dev.to/paulinevos)
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulinepvos/)
